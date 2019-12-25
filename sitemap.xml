@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://jelenko.crnjak.xyz/en/sitemap.xml</loc>
+	   	<loc>//jelenko.crnjak.xyz/en/sitemap.xml</loc>
 		
 	   	<lastmod>2019-12-25T00:37:41+01:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://jelenko.crnjak.xyz/hr/sitemap.xml</loc>
+	   	<loc>//jelenko.crnjak.xyz/hr/sitemap.xml</loc>
 		
 	   	<lastmod>2019-12-25T00:39:41+01:00</lastmod>
 		

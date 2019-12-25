@@ -3,89 +3,89 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jelenko.crnjak.xyz/hr/</loc>
+    <loc>//jelenko.crnjak.xyz/hr/</loc>
     <lastmod>2019-12-25T00:39:41+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jelenko.crnjak.xyz/"
+                href="//jelenko.crnjak.xyz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://jelenko.crnjak.xyz/hr/"
+                href="//jelenko.crnjak.xyz/hr/"
                 />
   </url>
   
   <url>
-    <loc>https://jelenko.crnjak.xyz/hr/posts/first-post/</loc>
+    <loc>//jelenko.crnjak.xyz/hr/posts/first-post/</loc>
     <lastmod>2019-12-25T00:39:41+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jelenko.crnjak.xyz/posts/first-post/"
+                href="//jelenko.crnjak.xyz/posts/first-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://jelenko.crnjak.xyz/hr/posts/first-post/"
+                href="//jelenko.crnjak.xyz/hr/posts/first-post/"
                 />
   </url>
   
   <url>
-    <loc>https://jelenko.crnjak.xyz/hr/posts/</loc>
+    <loc>//jelenko.crnjak.xyz/hr/posts/</loc>
     <lastmod>2019-12-25T00:39:41+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jelenko.crnjak.xyz/posts/"
+                href="//jelenko.crnjak.xyz/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://jelenko.crnjak.xyz/hr/posts/"
+                href="//jelenko.crnjak.xyz/hr/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://jelenko.crnjak.xyz/hr/categories/</loc>
+    <loc>//jelenko.crnjak.xyz/hr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jelenko.crnjak.xyz/categories/"
+                href="//jelenko.crnjak.xyz/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://jelenko.crnjak.xyz/hr/categories/"
+                href="//jelenko.crnjak.xyz/hr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://jelenko.crnjak.xyz/hr/about/</loc>
+    <loc>//jelenko.crnjak.xyz/hr/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jelenko.crnjak.xyz/about/"
+                href="//jelenko.crnjak.xyz/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://jelenko.crnjak.xyz/hr/about/"
+                href="//jelenko.crnjak.xyz/hr/about/"
                 />
   </url>
   
   <url>
-    <loc>https://jelenko.crnjak.xyz/hr/tags/</loc>
+    <loc>//jelenko.crnjak.xyz/hr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jelenko.crnjak.xyz/tags/"
+                href="//jelenko.crnjak.xyz/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://jelenko.crnjak.xyz/hr/tags/"
+                href="//jelenko.crnjak.xyz/hr/tags/"
                 />
   </url>
   
