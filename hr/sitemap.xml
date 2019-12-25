@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/hr/</loc>
+    <lastmod>2019-12-25T00:39:41+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hr"
+                href="http://example.org/hr/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/hr/posts/first-post/</loc>
+    <lastmod>2019-12-25T00:39:41+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/posts/first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hr"
+                href="http://example.org/hr/posts/first-post/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/hr/posts/</loc>
+    <lastmod>2019-12-25T00:39:41+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hr"
+                href="http://example.org/hr/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/hr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hr"
+                href="http://example.org/hr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/hr/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hr"
+                href="http://example.org/hr/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/hr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hr"
+                href="http://example.org/hr/tags/"
+                />
+  </url>
+  
+</urlset>
