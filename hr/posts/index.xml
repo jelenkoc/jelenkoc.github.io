@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Moj blog</title>
-    <link>http://example.org/hr/posts/</link>
+    <link>https://jelenko.crnjak.xyz/hr/posts/</link>
     <description>Recent content in Posts on Moj blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Everything is mine</copyright>
     <lastBuildDate>Wed, 25 Dec 2019 00:39:41 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/hr/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jelenko.crnjak.xyz/hr/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Moj prvi post</title>
-      <link>http://example.org/hr/posts/first-post/</link>
+      <link>https://jelenko.crnjak.xyz/hr/posts/first-post/</link>
       <pubDate>Wed, 25 Dec 2019 00:39:41 +0100</pubDate>
       
-      <guid>http://example.org/hr/posts/first-post/</guid>
+      <guid>https://jelenko.crnjak.xyz/hr/posts/first-post/</guid>
       <description>Evo me ovdje sam.
 Koliko dugo.</description>
     </item>

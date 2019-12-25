@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My blog</title>
-    <link>http://example.org/</link>
+    <link>https://jelenko.crnjak.xyz/</link>
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Everything is mine</copyright>
     <lastBuildDate>Wed, 25 Dec 2019 00:37:41 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jelenko.crnjak.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/first-post/</link>
+      <link>https://jelenko.crnjak.xyz/posts/first-post/</link>
       <pubDate>Wed, 25 Dec 2019 00:37:41 +0100</pubDate>
       
-      <guid>http://example.org/posts/first-post/</guid>
+      <guid>https://jelenko.crnjak.xyz/posts/first-post/</guid>
       <description>Here I am.
 How long.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://jelenko.crnjak.xyz/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://jelenko.crnjak.xyz/about/</guid>
       <description>Hello everybody.</description>
     </item>
     

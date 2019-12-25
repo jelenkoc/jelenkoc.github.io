@@ -3,89 +3,89 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://jelenko.crnjak.xyz/</loc>
     <lastmod>2019-12-25T00:37:41+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="http://example.org/hr/"
+                href="https://jelenko.crnjak.xyz/hr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://jelenko.crnjak.xyz/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/posts/first-post/</loc>
+    <loc>https://jelenko.crnjak.xyz/posts/first-post/</loc>
     <lastmod>2019-12-25T00:37:41+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="http://example.org/hr/posts/first-post/"
+                href="https://jelenko.crnjak.xyz/hr/posts/first-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/posts/first-post/"
+                href="https://jelenko.crnjak.xyz/posts/first-post/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://jelenko.crnjak.xyz/posts/</loc>
     <lastmod>2019-12-25T00:37:41+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="http://example.org/hr/posts/"
+                href="https://jelenko.crnjak.xyz/hr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/posts/"
+                href="https://jelenko.crnjak.xyz/posts/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://jelenko.crnjak.xyz/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="http://example.org/hr/about/"
+                href="https://jelenko.crnjak.xyz/hr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/about/"
+                href="https://jelenko.crnjak.xyz/about/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://jelenko.crnjak.xyz/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="http://example.org/hr/categories/"
+                href="https://jelenko.crnjak.xyz/hr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://jelenko.crnjak.xyz/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://jelenko.crnjak.xyz/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="http://example.org/hr/tags/"
+                href="https://jelenko.crnjak.xyz/hr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://jelenko.crnjak.xyz/tags/"
                 />
   </url>
   
