@@ -48,6 +48,11 @@
   </url>
   
   <url>
+    <loc>//jelenko.crnjak.xyz/posts/drugi-post/</loc>
+    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//jelenko.crnjak.xyz/about/</loc>
     <xhtml:link
                 rel="alternate"

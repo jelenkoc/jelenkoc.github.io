@@ -25,6 +25,15 @@ Even smaller Brush is clean.</description>
     </item>
     
     <item>
+      <title>Moj drugi post</title>
+      <link>//jelenko.crnjak.xyz/posts/drugi-post/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//jelenko.crnjak.xyz/posts/drugi-post/</guid>
+      <description>Ovdje je svašta samo nije ono što treba biti. Nadamo se boljem, ali očito nikad nije. Nemoj tu krivo biti.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>//jelenko.crnjak.xyz/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
