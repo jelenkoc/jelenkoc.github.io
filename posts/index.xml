@@ -7,21 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Everything is mine</copyright>
-    <lastBuildDate>Wed, 25 Dec 2019 00:37:41 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2019 23:37:41 +0000</lastBuildDate>
     
 	<atom:link href="//jelenko.crnjak.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
+      <title>The Irishman (2019)</title>
       <link>//jelenko.crnjak.xyz/posts/first-post/</link>
-      <pubDate>Wed, 25 Dec 2019 00:37:41 +0100</pubDate>
+      <pubDate>Tue, 24 Dec 2019 23:37:41 +0000</pubDate>
       
       <guid>//jelenko.crnjak.xyz/posts/first-post/</guid>
-      <description>Big title Here I am.
-How long.
+      <description>![](images/Main image.jpg)
+Directed by: Martin Scorsese
+Produced by: Martin Scorsese, Robert De Niro, Jane Rosenthal, Emma Tillinger Koskoff, Irwin Winkler, Gerald Chamales, Gastón Pavlovich, Randall Emmett, Gabriele Israilovici
+Screenplay by: Steven Zaillian
+Based on book: “I Heard You Paint Houses” by Charles Brandt
+Starring: Robert De Niro, Al Pacino, Joe Pesci
 Small title I left my mark here with a brush.
-Even smaller Brush is clean.</description>
+Even smaller Brush is clean.
+Cleaning it again.</description>
     </item>
     
     <item>
