@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>hr-HR</language>
     <copyright>Everything is mine</copyright>
-    <lastBuildDate>Wed, 25 Dec 2019 00:39:41 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="//jelenko.crnjak.xyz/hr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Irishman (2019)</title>
+      <link>//jelenko.crnjak.xyz/hr/posts/irishman-2019/</link>
+      <pubDate>Wed, 01 Jan 2020 11:00:00 +0000</pubDate>
+      
+      <guid>//jelenko.crnjak.xyz/hr/posts/irishman-2019/</guid>
+      <description>Titl </description>
+    </item>
+    
+    <item>
       <title>Moj prvi post</title>
       <link>//jelenko.crnjak.xyz/hr/posts/first-post/</link>
-      <pubDate>Wed, 25 Dec 2019 00:39:41 +0100</pubDate>
+      <pubDate>Tue, 24 Dec 2019 23:39:41 +0000</pubDate>
       
       <guid>//jelenko.crnjak.xyz/hr/posts/first-post/</guid>
       <description>Ovdje je svašta samo nije ono što treba biti. Nadamo se boljem, ali očito nikad nije. Nemoj tu krivo biti.</description>
