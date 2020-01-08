@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Everything is mine</copyright>
-    <lastBuildDate>Tue, 31 Dec 2019 15:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:00 +0000</lastBuildDate>
     
 	<atom:link href="//jelenko.crnjak.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>The Irishman (2019)</title>
       <link>//jelenko.crnjak.xyz/posts/irishman-2019/</link>
-      <pubDate>Tue, 31 Dec 2019 15:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jan 2020 15:00:00 +0000</pubDate>
       
       <guid>//jelenko.crnjak.xyz/posts/irishman-2019/</guid>
       <description>Frank Sheeran (Robert De Niro), a Mafia hitman, looks back on his life and his mob carrier with emphasis on his relationships with famous American labour leader, Jimmy Hoffa (Al Pacino) and Russell Bufalino, the head of the Northeastern Pennsylvania crime family (Joe Pesci).</description>
@@ -36,7 +36,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//jelenko.crnjak.xyz/about/</guid>
-      <description>A blog dedicated to all movies/series lovers who want to know more about historical and geographical context of the particular movie or series.</description>
+      <description>A blog dedicated to all movies/series lovers who want to know more about historical and geographical context of the particular movie or series.
+Idea was to combine somehow my affection towards movies and series with my interests in geography and history.
+Who could benefit from the blog:
+ quiz players aspiring smartasses seducers  </description>
     </item>
     
   </channel>
