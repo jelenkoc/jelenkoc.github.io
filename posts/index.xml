@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Everything is mine</copyright>
-    <lastBuildDate>Tue, 07 Jan 2020 15:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="//jelenko.crnjak.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Peanut Butter Falcon (2019)</title>
+      <link>//jelenko.crnjak.xyz/posts/peanut-butter-falcon-2019/</link>
+      <pubDate>Thu, 13 Feb 2020 23:00:00 +0000</pubDate>
+      
+      <guid>//jelenko.crnjak.xyz/posts/peanut-butter-falcon-2019/</guid>
+      <description>A modern Mark Twain style adventure story, THE PEANUT BUTTER FALCON tells the story of Zak, a young man with Down syndrome, who runs away from a residential nursing home to follow his dream of attending the professional wrestling school.</description>
+    </item>
     
     <item>
       <title>The Irishman (2019)</title>
