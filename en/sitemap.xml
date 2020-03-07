@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//jelenko.crnjak.xyz/posts/jojo_rabbit/</loc>
+    <lastmod>2020-03-05T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//jelenko.crnjak.xyz/</loc>
-    <lastmod>2020-02-13T23:00:00+00:00</lastmod>
+    <lastmod>2020-03-05T23:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
@@ -19,7 +24,7 @@
   
   <url>
     <loc>//jelenko.crnjak.xyz/posts/</loc>
-    <lastmod>2020-02-13T23:00:00+00:00</lastmod>
+    <lastmod>2020-03-05T23:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
