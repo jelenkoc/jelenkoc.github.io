@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>hr-HR</language>
     <copyright>Everything is mine</copyright>
-    <lastBuildDate>Thu, 09 Jan 2020 15:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2020 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="//jelenko.crnjak.xyz/hr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jojo Rabbit (2019)</title>
+      <link>//jelenko.crnjak.xyz/hr/posts/jojo-rabbit-2019/</link>
+      <pubDate>Sun, 08 Mar 2020 23:00:00 +0000</pubDate>
+      
+      <guid>//jelenko.crnjak.xyz/hr/posts/jojo-rabbit-2019/</guid>
+      <description>Jojo Rabbit je satira na temu Drugog svjetskog rata koja prati desetogodišnjeg njemačkog dječaka, člana Hitlerove mladeži, čiji se pogled na svijet okrene naopako kada otkrije da njegova samohrana majka krije mladu židovsku djevojku na njihovom tavanu.</description>
+    </item>
     
     <item>
       <title>Irac / The Irishman (2019)</title>

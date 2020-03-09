@@ -3,23 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//jelenko.crnjak.xyz/hr/posts/irishman-2019/</loc>
-    <lastmod>2020-01-09T15:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//jelenko.crnjak.xyz/posts/irishman-2019/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hr"
-                href="//jelenko.crnjak.xyz/hr/posts/irishman-2019/"
-                />
+    <loc>//jelenko.crnjak.xyz/hr/posts/jojo-rabbit-2019/</loc>
+    <lastmod>2020-03-08T23:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>//jelenko.crnjak.xyz/hr/</loc>
-    <lastmod>2020-01-09T15:00:00+00:00</lastmod>
+    <lastmod>2020-03-08T23:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,7 +24,7 @@
   
   <url>
     <loc>//jelenko.crnjak.xyz/hr/posts/</loc>
-    <lastmod>2020-01-09T15:00:00+00:00</lastmod>
+    <lastmod>2020-03-08T23:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,6 +34,21 @@
                 rel="alternate"
                 hreflang="hr"
                 href="//jelenko.crnjak.xyz/hr/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>//jelenko.crnjak.xyz/hr/posts/irishman-2019/</loc>
+    <lastmod>2020-01-09T15:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//jelenko.crnjak.xyz/posts/irishman-2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hr"
+                href="//jelenko.crnjak.xyz/hr/posts/irishman-2019/"
                 />
   </url>
   
